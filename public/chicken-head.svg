@@ -1,15 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
-  <title>Chicken Head</title>
-  <g stroke="#475569" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
-    <circle cx="23" cy="18" r="5.2" fill="#fb7185"/>
-    <circle cx="31" cy="14.5" r="6.2" fill="#fb7185"/>
-    <circle cx="39" cy="17.5" r="5.4" fill="#fb7185"/>
-    <circle cx="45.5" cy="22" r="4.2" fill="#fb7185"/>
-    <ellipse cx="29.5" cy="36" rx="17.5" ry="16.5" fill="#fff7ed"/>
-    <path d="M38 32.2 53.5 36 38 39.8l-5.8-3.8z" fill="#f59e0b"/>
-    <path d="M28.5 40c4 0 7.3 3.1 7.3 6.9 0 4.6-4.3 8.5-8.7 8.5-4.2 0-7.7-3.3-7.7-7.5 0-4.3 3.9-7.9 9.1-7.9z" fill="#fb923c"/>
-    <circle cx="32.2" cy="31" r="3.3" fill="#111827"/>
-    <circle cx="33.4" cy="29.9" r="0.95" fill="#fff"/>
-    <path d="M18.5 37.4c2.7 2.4 5.8 3.6 9.3 3.6" fill="none"/>
-  </g>
+  <title>Chicken Emoji Favicon</title>
+  <text
+    x="50%"
+    y="50%"
+    text-anchor="middle"
+    dominant-baseline="central"
+    font-size="52"
+    font-family="Apple Color Emoji, Segoe UI Emoji, Noto Color Emoji, sans-serif"
+  >🐔</text>
 </svg>
